@@ -1,5 +1,5 @@
-<img src="https://github.com/user-attachments/assets/029ba402-6347-4704-9be1-6318e50d01d4"/>
-  
+<img src="https://github.com/user-attachments/assets/cdd38273-38eb-4fd8-b313-e8b4e5f44857"/>
+
 ## STORYTELLER
 
 `#사용자 맞춤형 동화 생성` `#학습에 편리한 기능` <br /> <br />
