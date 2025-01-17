@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/bae54899-5a36-4aa0-a6b5-ca7a7fecae80" width="200px" height="200px"/>
+<img src="https://github.com/user-attachments/assets/029ba402-6347-4704-9be1-6318e50d01d4"/>
   
 ## STORYTELLER
 
