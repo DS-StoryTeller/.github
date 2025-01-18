@@ -6,7 +6,7 @@
 기존에 없는 새로운 영어 동화를 위해 원하는 키워드를 통해 다양하고 창의적인 영어 동화를 경험을 통해, <br /> 영어 동화에 대한 어린이들의 흥미와 관심을 유발할 수 있는 <br />
 **"어린이들을 위한 창의적인 영어 동화 앱"**, STORYTELLER입니다.
 
-_written by pyounani_
+_written by pyounani, devdaradara_
 
 <br />
 <br />
